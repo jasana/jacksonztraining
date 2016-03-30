@@ -57,9 +57,13 @@
 <?php $this->content(); ?>
 
 <footer>
-  <p>footer goes here</p>
-  </footer>
-</div>
+  <div class="text-center socialmedialinks">
+    <a href="https://www.facebook.com/CJacksonzTraining"><img src="images/fb.png" alt="Facebook logo"></a>
+    <a href=""><img src="images/insta.png" alt="Instagram logo"></a>
+    <a href=""><img src="images/yt.png" alt="Youtube logo"></a>
+  </div>
+</footer>
+
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
